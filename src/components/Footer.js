@@ -64,7 +64,7 @@ const Footer = () => {
                 href="https://discord.com/invite/pzAxbQgfzc"
                 className="h-color no-decoration"
               >
-                Preet Suthar
+                Sxngdu||Bluenight
               </Link>
             </p>
             <p className="p-color">{year} &copy; All rights reserved!</p>
