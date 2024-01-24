@@ -109,7 +109,7 @@ export default function Commands() {
             <div className="box-content p-color">
               <ul>
                 <li>
-                  <kbd>$command1</kbd> -{" "}
+                  <kbd>/GameSpint</kbd> -{" "}
                   <span className="p-color">Description of command</span>
                 </li>
                 <li>
