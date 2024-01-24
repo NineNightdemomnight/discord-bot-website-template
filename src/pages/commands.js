@@ -110,7 +110,7 @@ export default function Commands() {
               <ul>
                 <li>
                   <kbd>/GameSpint</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <span className="p-color">ระบบสุ่มสิงของในเกมBF</span>
                 </li>
                 <li>
                   <kbd>$command2</kbd> -{" "}
