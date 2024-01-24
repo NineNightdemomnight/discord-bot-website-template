@@ -76,7 +76,7 @@ const Footer = () => {
             <Link
               target="_blank"
               className="p-color no-decoration"
-              href="https://github.com/preetsuthar17/discord-bot-website-template"
+              href="https://discord.com/invite/pzAxbQgfzc"
             >
               /source-code
             </Link>
