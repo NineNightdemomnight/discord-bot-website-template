@@ -13,8 +13,8 @@ const JoinNow = () => {
         <button className="btn">
           <Link className="h-color no-decoration" href="#">
             Invite now!
-          </Link
-href="https://discord.com/api/oauth2/authorize?client_id=1148180415815888947&permissions=8&scope=bot">
+          </Link>
+<href="https://discord.com/api/oauth2/authorize?client_id=1148180415815888947&permissions=8&scope=bot">
         </button>
       </section>
     </>
