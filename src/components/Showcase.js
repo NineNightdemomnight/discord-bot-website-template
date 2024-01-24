@@ -31,6 +31,7 @@ const Showcase = () => {
             <Link className="h-color no-decoration" href="#">
               Join server!
             </Link>
+                href="https://discord.com/invite/pzAxbQgfzc"
           </button>
         </div>
       </main>
