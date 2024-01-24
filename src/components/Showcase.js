@@ -15,7 +15,7 @@ const Showcase = () => {
           The only discord bot you need!
         </h2>
         <p className="showcase-para p-color">
-          One of the awesome discord bot with tons of commands that will fill
+          One of the awesome discord bots with tons of commands that will fill
           your needs in your discord server.
         </p>
 
@@ -28,10 +28,9 @@ const Showcase = () => {
           </button>
 
           <button className="btn">
-            <Link className="h-color no-decoration" href="#">
+            <Link className="h-color no-decoration" href="https://discord.com/invite/pzAxbQgfzc">
               Join server!
-            </Link
-                href="https://discord.com/invite/pzAxbQgfzc"
+            </Link>
           </button>
         </div>
       </main>
