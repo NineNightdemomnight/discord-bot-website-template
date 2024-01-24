@@ -61,7 +61,7 @@ const Footer = () => {
             <p className="p-color">
               Created with ❤️ by{" "}
               <Link
-                href="https://github.com/preetsuthar17"
+                href="https://discord.com/invite/pzAxbQgfzc"
                 className="h-color no-decoration"
               >
                 Preet Suthar
