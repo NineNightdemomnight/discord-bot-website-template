@@ -11,7 +11,7 @@ const JoinNow = () => {
           Invite our bot to your Discord server!{" "}
         </div>
         <button className="btn">
-          <Link href="https://discord.com/api/oauth2/authorize?client_id=1148180415815888947&permissions=8&scope=bot">
+          <Link href="https://discord.com/oauth2/authorize?client_id=1232158211117682760&permissions=8&integration_type=0&scope=bot">
             <a className="h-color no-decoration">Invite now!</a>
           </Link>
         </button>
